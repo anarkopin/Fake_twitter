@@ -1,7 +1,3 @@
-# Estos son los archivos iniciales del proyecto
-
-## Este proyecto corresponde al tutorial de youtube: 
-
 #### Para utilizarlo/configurarlo:
 
 1. Clona el repositorio o descargalo como zip.
