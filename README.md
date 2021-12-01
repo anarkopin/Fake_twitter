@@ -1,5 +1,5 @@
 ### Para acceder directamente:
-<a href="https://fake-twitter-django.herokuapp.com/login/?next=/"> Fake-twitter-django</a>
+<a href="https://fake-twitter-django.herokuapp.com/login/?next=/" target="_blank"> Fake-twitter-django</a>
 
 #### Para utilizarlo/configurarlo:
 
