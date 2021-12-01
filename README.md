@@ -1,3 +1,6 @@
+### Para acceder directamente:
+
+
 #### Para utilizarlo/configurarlo:
 
 1. Clona el repositorio o descargalo como zip.
