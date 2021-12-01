@@ -1,6 +1,10 @@
 ### Para acceder directamente:
 <a href="https://fake-twitter-django.herokuapp.com/login/?next=/" target="_blank"> Fake-twitter-django</a>
 
+Login de prueba:
+user: diego
+contraseña: diego
+
 #### Para utilizarlo/configurarlo:
 
 1. Clona el repositorio o descargalo como zip.
