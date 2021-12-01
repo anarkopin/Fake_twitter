@@ -2,7 +2,9 @@ from django.shortcuts import render, redirect
 from .models import *
 from .forms import UserRegisterForm, PostForm, UserUpdateForm, ProfileUpdateForm 
 from django.contrib.auth.models import User
+from django.contrib.auth.decorators import login_required
 
+@login_required
 def home(request):
 	if request.user.is_authenticated==False:
 		return redirect('register')
